@@ -1,4 +1,4 @@
-CREATE OR REPLACE PROCEDURE print_hello_world()
+CREATE OR REPLACE PROCEDURE print_hello_world_rerunnable()
 RETURNS STRING
 LANGUAGE SQL
 AS
