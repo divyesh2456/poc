@@ -1,6 +1,7 @@
 USE SCHEMA DEMO;
-CREATE TABLE TestTable
+CREATE or replace TABLE TestTable
 (
    FIRST_NAME VARCHAR
-  ,LAST_NAME VARCHAR
+  ,LAST_NAME VARCHAR,
+  address1 varchar
 );
