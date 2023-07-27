@@ -6,7 +6,8 @@ $$
 DECLARE
   result STRING;
 BEGIN
-  result := 'Hello, Rerunnable World';
+  result := 'Hello, Rerunnable24';
+
   RETURN result;
 END;
 $$;
