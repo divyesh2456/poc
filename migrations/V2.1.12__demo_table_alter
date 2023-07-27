@@ -1,0 +1,2 @@
+USE SCHEMA DEMO;
+ALTER TABLE TestTableA ADD COLUMN Address1 varchar;
