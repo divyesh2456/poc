@@ -1,6 +1,6 @@
 USE SCHEMA DEMO;
 
-CREATE or replace TABLE TestTable
+CREATE or replace TABLE demo2
 (
    FIRST_NAMEA VARCHAR
   ,LAST_NAME VARCHAR
