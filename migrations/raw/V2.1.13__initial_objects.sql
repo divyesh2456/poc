@@ -1,6 +1,0 @@
-CREATE SCHEMA raw;
-CREATE or replace TABLE Table1
-(
-   FIRST_NAME VARCHAR
-  ,LAST_NAME VARCHAR
-);

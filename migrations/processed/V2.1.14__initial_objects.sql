@@ -1,6 +1,0 @@
-CREATE SCHEMA processed;
-CREATE or replace TABLE Table2
-(
-   FIRST_NAME VARCHAR
-  ,LAST_NAME VARCHAR
-);
