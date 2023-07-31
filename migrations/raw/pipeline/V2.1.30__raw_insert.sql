@@ -1,0 +1,1 @@
+insert into  DEMO_DB.DEMO.RawDemo select * from DEMO_DB.DEMO.demo2;
