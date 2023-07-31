@@ -1,0 +1,1 @@
+insert into demo2 select * from DEMO_DB.DEMO.HELLO_WORLD;
