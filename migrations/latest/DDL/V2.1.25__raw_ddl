@@ -1,0 +1,7 @@
+USE SCHEMA DEMO;
+
+CREATE or replace TABLE TestTable
+(
+   FIRST_NAMEA VARCHAR
+  ,LAST_NAME VARCHAR
+);
