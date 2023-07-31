@@ -1,2 +1,2 @@
 
-create table t2 as select * from DEMO_DB.PROCESSED.TABLE2 a join DEMO_DB.RAW.TABLE1 b on a.FIRST_NAME = b.FIRST_NAME;
+insert into DEMO_DB.DEMO.POC values ('Lysandra','Reeves',25),('Ram','sharma',20);
