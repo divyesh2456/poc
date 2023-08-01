@@ -1,0 +1,1 @@
+insert into  DEMO_DB.Analytics.AnalyticsTable select * from DEMO_DB.DEMO.ProcessedDemo;
